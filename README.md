@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JayKickliter/theft.svg?branch=master)](https://travis-ci.org/JayKickliter/theft)
+
 # theft: property-based testing for C
 
 theft is a C library for property-based testing. Rather than checking
